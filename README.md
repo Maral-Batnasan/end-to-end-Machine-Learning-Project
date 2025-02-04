@@ -1,4 +1,4 @@
-🌍 Predicting First Year Modeled Energy Savings ($ Estimate) 🔋💰
+🌍 Predicting First Year Modeled Energy Savings ($ Estimate) 🔋💰 
 
 📌 Project Overview
 
