@@ -25,4 +25,5 @@ The analysis simplifies the relationship between energy consumption savings and 
 📂 Data Sources
 
 Data Provided By: The New York State Energy Research and Development Authority’s New York Residential Existing Homes Program
+
 Available at: https://data.ny.gov/Energy-Environment/Residential-Existing-Homes-One-to-Four-Units-Energ/assk-vu73/about_data 
